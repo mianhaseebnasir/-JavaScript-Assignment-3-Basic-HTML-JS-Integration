@@ -22,7 +22,6 @@ This project is built using the following technologies:
 │<br>
 ├── index.html<br>
 └── script.js<br>
-<hr>
 <h5>index.html</h5>
 <li>Contains the basic HTML page structure</li>
 <li>Displays a heading</li>
@@ -44,7 +43,7 @@ This project helps beginners learn:
 <li>Basic web development workflow</li>
 <hr>
 <h3>👨‍💻 Author</h3>
-<b>Mian Haseeb Nasir</b>
+<b>Mian Haseeb Nasir</b><br>
 Software Engineer | Full Stack Developer with AI<br>
 Founder (Upcoming) – Nova Stack Technologies
-<hr>
+
