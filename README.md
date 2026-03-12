@@ -5,19 +5,19 @@ The project includes a basic HTML boilerplate setup and links a JavaScript file 
 
 When the page loads, it displays a heading message and executes the linked JavaScript file.
 <hr>
-<h3>🚀 Features</h3>
+<h3>🚀 Features:</h3>
 <li>Basic HTML5 Boilerplate Structure</li>
 <li>Clean and simple webpage layout</li>
 <li>Demonstrates how to link an external JavaScript file</li>
 <li>Beginner-friendly JavaScript practice project</li>
 <li>Organized and readable code</li>
 <hr>
-<h3>🛠️ Technologies Used</h3>
+<h3>🛠️ Technologies Used:</h3>
 This project is built using the following technologies:
 <li>HTML5</li>
 <li>JavaScript</li>
 <hr>
-<h3>📂 Project Structure</h3>
+<h3>📂 Project Structure:</h3>
 <h5>Assignment-3</h5>
 │<br>
 ├── index.html<br>
@@ -29,20 +29,20 @@ This project is built using the following technologies:
 <h5>script.js</h5>
 <li>Contains JavaScript code executed by the webpage</li>
 <hr>
-<h3>💻 How to Run the Project</h3>
+<h3>💻 How to Run the Project:</h3>
 <li>Download or clone the repository.</li>
 <b>https://github.com/mianhaseebnasir/-JavaScript-Assignment-3-Basic-HTML-JS-Integration.git</b>
 <li>Open the project folder.</li>
 <li>Run the project by opening index.html in your browser.</li>
 <hr>
-<h3>🎯 Learning Purpose</h3>
+<h3>🎯 Learning Purpose:</h3>
 This project helps beginners learn:
 <li>HTML document structure</li>
 <li>Script tag usage</li>
 <li>Linking JavaScript with HTML</li>
 <li>Basic web development workflow</li>
 <hr>
-<h3>👨‍💻 Author</h3>
+<h3>👨‍💻 Author:</h3>
 <b>Mian Haseeb Nasir</b><br>
 Software Engineer | Full Stack Developer with AI<br>
 Founder (Upcoming) – Nova Stack Technologies
